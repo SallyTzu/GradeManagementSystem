@@ -1,0 +1,2 @@
+# GradeManagementSystem
+这是一个基于java swing和mysql的学生成绩管理系统
